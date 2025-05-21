@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OPCwm+jadabfZCYqTTgcEnSq/XPzg65UbbXtXLe4VXE=",
+  "Source": "PassportOCR",
+  "BasePath": "_content/PassportOCR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
